@@ -1,0 +1,5 @@
+{
+    "require": {
+        "amocrm/oauth2-amocrm": "^3.0"
+    }
+}
